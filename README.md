@@ -19,5 +19,5 @@ dlib - Machine Learning Library  <br/>
 face_recognition - Python library for face recognition  <br/>
 
 # Authors <br/>
-Janajan Jeyabalan - https://github.com/JJ0304 <br/>
+Janajan Jeyabalan - https://github.com/janajan-jeyabalan <br/>
 Faraaz Mohsin - https://github.com/faraazmohsin
